@@ -1,0 +1,19 @@
+#include  <stdio.h>
+
+
+int  main () {
+	
+	char caracterW = 'w' ;
+	char caracterE = 'e' ;
+	char caracterI = 'i' ;
+	char caracterL = 'l' ;
+	char caracterR = 'r' ;
+	char caracterP = 'p' ;
+	char caracterS = 's' ;
+	
+	printf ( " Est%crnocle%cdoma%ctoideo \n " , caracterE, caracterI, caracterS);
+	printf ( " Para% cele% cipedo \n " , caracterL, caracterP);
+	printf ( " Marco d% c % ceferencia \n " , caracterE, caracterR);
+
+	return  0 ;
+}
