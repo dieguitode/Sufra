@@ -1,0 +1,15 @@
+#include <stdio.h>
+int  main () {
+	int puntosHuff = 320 ;
+	int puntosGryffUno = 60 ;
+	int puntosGryffDos = 450 ;
+	int puntosRaven = 140 ;
+
+
+	printf ( " Resultados: \n " );
+	printf ( " Gryffindor derroto a Slytherin \n " );
+	printf ( " Hufflepuff derroto a Gryffindor, % i - % i  \n " , puntosHuff, puntosGryffUno);
+	printf ( " Gryffindor derroto a Ravenclaw, % i - % i  \n " , puntosGryffDos, puntosRaven);
+
+	return  0 ;
+}
