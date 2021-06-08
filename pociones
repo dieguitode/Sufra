@@ -1,0 +1,24 @@
+# include  <stdio.h>
+
+
+int  main () {
+	
+	int cantidadCuatro = 4 ;
+	int cantidadUno = 1 ;
+	int cantidadDos = 2 ;
+	int cantidadDieciseis = 16 ;
+	int cantidadDoce = 12 ;
+	
+
+	printf( " Ingredientes para la pocion multijugos: \n  " );
+	printf( " - % i Crisopos que se han guisado durante 21 dias \n " , cantidadDoce);
+	printf( " - % i Onza de antimonio crudo \n - % i sanguijuelas \n " , cantidadUno, cantidadCuatro);
+	printf( " - % i escrupulos de Descurainia sophia recogida con luna llena \n " , cantidadDieciseis);
+	printf( " - % i hojas pulversadas de centinodia \n " , cantidadDos);
+	printf( " - Un poco de cuerno pulverizado de Bicornio, extraida segun ciertas condiciones de la luna \n " );
+	printf( " - Piel seca desmenuzada de una serpiente arborea africana \n " );
+	printf( " - Gusarajo \n " );
+	printf( " - Algo de la persona en la que se quiere transformar \n " );
+
+	return  0 ;
+}
