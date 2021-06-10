@@ -1,0 +1,18 @@
+# include  <stdio.h>
+
+
+int main(){
+       int cantGatitos = 0;
+      
+       
+ printf("Ingrese cantidad de gatos \n");
+ scanf("%d",&cantGatitos);
+ 
+ 
+
+ 
+ printf(" Has adeptado %d gatitos ", cantGatitos);
+       
+  
+ return 0;
+}
