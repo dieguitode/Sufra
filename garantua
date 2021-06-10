@@ -1,0 +1,21 @@
+# include  <stdio.h>
+
+
+int main(){
+       int camtidadAniosTierra=0;
+       int cantidadHorasGarantua=0;
+       int multiplicacion=0;
+       
+ printf("Ingrese cantidad de anios en la tierra \n");
+ scanf("%d",&camtidadAniosTierra);
+ printf("Ingrese cantidad de horas garantua \n");
+ scanf("%d",&cantidadHorasGarantua);
+ 
+ 
+ multiplicacion=camtidadAniosTierra*cantidadHorasGarantua;
+ 
+ printf("han pasado en garantua  %d", multiplicacion=camtidadAniosTierra*cantidadHorasGarantua);
+       
+  
+ return 0;
+}
